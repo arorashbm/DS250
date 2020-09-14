@@ -1,0 +1,198 @@
+,Country Name,Similar Country,Different Country
+0,Afghanistan,Zambia,China
+1,Albania,Burkina Faso,China
+2,Algeria,Vietnam,China
+3,Andorra,Central African Republic,China
+4,Angola,Ecuador,China
+5,Antigua and Barbuda,Greenland,China
+6,Argentina,Netherlands,China
+7,Armenia,Mauritius,China
+8,Australia,Thailand,China
+9,Austria,Peru,China
+10,Azerbaijan,Dominican Republic,China
+11,"Bahamas, The",Sierra Leone,China
+12,Bahrain,Slovenia,China
+13,Bangladesh,United Arab Emirates,China
+14,Barbados,Liechtenstein,China
+15,Belarus,Slovakia,China
+16,Belgium,Singapore,China
+17,Belize,Guinea-Bissau,China
+18,Benin,Jamaica,China
+19,Bhutan,Timor-Leste,China
+20,Bolivia,Costa Rica,China
+21,Bosnia and Herzegovina,Honduras,China
+22,Botswana,Mongolia,China
+23,Brazil,Indonesia,China
+24,Brunei,Zimbabwe,China
+25,Bulgaria,Tanzania,China
+26,Burkina Faso,Albania,China
+27,Burundi,Monaco,China
+28,Cabo Verde,Djibouti,China
+29,Cambodia,Luxembourg,China
+30,Cameroon,Uganda,China
+31,Canada,Saudi Arabia,China
+32,Central African Republic,Andorra,China
+33,Chad,Tajikistan,China
+34,Chile,Austria,China
+35,China,United States,Tuvalu
+36,Colombia,United Arab Emirates,China
+37,Comoros,Solomon Islands,China
+38,"Congo, Democratic Republic of the",Zambia,China
+39,"Congo, Republic of the",Chad,China
+40,Costa Rica,Bolivia,China
+41,Cote d'Ivoire,Croatia,China
+42,Croatia,Turkmenistan,China
+43,Cuba,Tunisia,China
+44,Cyprus,Equatorial Guinea,China
+45,Czech Republic,Swaziland,China
+46,Denmark,Hungary,China
+47,Djibouti,Cabo Verde,China
+48,Dominica,Vanuatu,China
+49,Dominican Republic,Azerbaijan,China
+50,Ecuador,Angola,China
+51,Egypt,Taiwan,China
+52,El Salvador,Syria,China
+53,Equatorial Guinea,Cyprus,China
+54,Eritrea,Suriname,China
+55,Estonia,Mali,China
+56,Ethiopia,Angola,China
+57,Fiji,Suriname,China
+58,Finland,Uzbekistan,China
+59,France,United Kingdom,China
+60,Gabon,Nicaragua,China
+61,"Gambia, The",Barbados,China
+62,Georgia,Madagascar,China
+63,Germany,Russia,China
+64,Ghana,Cuba,China
+65,Greece,Morocco,China
+66,Greenland,Antigua and Barbuda,China
+67,Grenada,Saint Kitts and Nevis,China
+68,Guatemala,Tunisia,China
+69,Guinea,Mauritius,China
+70,Guinea-Bissau,Belize,China
+71,Guyana,Liberia,China
+72,Haiti,South Sudan,China
+73,Honduras,Bosnia and Herzegovina,China
+74,Hungary,Kuwait,China
+75,Iceland,Mauritania,China
+76,India,Japan,China
+77,Indonesia,Brazil,China
+78,Iran,Canada,China
+79,Iraq,Vietnam,China
+80,Ireland,Qatar,China
+81,Israel,Portugal,China
+82,Italy,Turkey,China
+83,Jamaica,Namibia,China
+84,Japan,Germany,China
+85,Jordan,Paraguay,China
+86,Kazakhstan,Romania,China
+87,Kenya,Tanzania,China
+88,Kiribati,Marshall Islands,China
+89,"Korea, North",Madagascar,China
+90,"Korea, South",Turkey,China
+91,Kosovo,Malta,China
+92,Kuwait,Hungary,China
+93,Kyrgyzstan,Moldova,China
+94,Laos,Syria,China
+95,Latvia,Senegal,China
+96,Lebanon,Paraguay,China
+97,Lesotho,Maldives,China
+98,Liberia,Guyana,China
+99,Libya,Luxembourg,China
+100,Liechtenstein,Barbados,China
+101,Lithuania,Cameroon,China
+102,Luxembourg,Libya,China
+103,Macedonia,Equatorial Guinea,China
+104,Madagascar,Georgia,China
+105,Malawi,Niger,China
+106,Malaysia,Netherlands,China
+107,Maldives,Lesotho,China
+108,Mali,Estonia,China
+109,Malta,Kosovo,China
+110,Marshall Islands,Kiribati,China
+111,Mauritania,Iceland,China
+112,Mauritius,Armenia,China
+113,Mexico,Italy,China
+114,"Micronesia, Federated States of",Palau,China
+115,Moldova,Kyrgyzstan,China
+116,Monaco,Timor-Leste,China
+117,Mongolia,Georgia,China
+118,Montenegro,Sierra Leone,China
+119,Morocco,Greece,China
+120,Mozambique,Gabon,China
+121,Burma,Qatar,China
+122,Namibia,Jamaica,China
+123,Nauru,Marshall Islands,China
+124,Nepal,Uruguay,China
+125,Netherlands,Argentina,China
+126,New Zealand,Oman,China
+127,Nicaragua,Gabon,China
+128,Niger,Malawi,China
+129,Nigeria,Poland,China
+130,Norway,Venezuela,China
+131,Oman,New Zealand,China
+132,Pakistan,Nigeria,China
+133,Palau,Kiribati,China
+134,Panama,Turkmenistan,China
+135,Papua New Guinea,"Congo, Republic of the",China
+136,Paraguay,Jordan,China
+137,Peru,Austria,China
+138,Philippines,Argentina,China
+139,Poland,Nigeria,China
+140,Portugal,Israel,China
+141,Qatar,Burma,China
+142,Romania,Kazakhstan,China
+143,Russia,Germany,China
+144,Rwanda,Benin,China
+145,Saint Kitts and Nevis,Grenada,China
+146,Saint Lucia,Greenland,China
+147,Saint Vincent and the Grenadines,Comoros,China
+148,Samoa,Saint Vincent and the Grenadines,China
+149,San Marino,Antigua and Barbuda,China
+150,Sao Tome and Principe,Vanuatu,China
+151,Saudi Arabia,Canada,China
+152,Senegal,Latvia,China
+153,Serbia,Panama,China
+154,Seychelles,Saint Lucia,China
+155,Sierra Leone,Montenegro,China
+156,Singapore,Belgium,China
+157,Slovakia,Belarus,China
+158,Slovenia,Bahrain,China
+159,Solomon Islands,Comoros,China
+160,Somalia,South Sudan,China
+161,South Africa,Colombia,China
+162,South Sudan,Haiti,China
+163,Spain,Saudi Arabia,China
+164,Sri Lanka,Denmark,China
+165,Sudan,Belarus,China
+166,Suriname,Fiji,China
+167,Swaziland,Czech Republic,China
+168,Sweden,Switzerland,China
+169,Switzerland,Singapore,China
+170,Syria,El Salvador,China
+171,Taiwan,Egypt,China
+172,Tajikistan,Armenia,China
+173,Tanzania,Kenya,China
+174,Thailand,Australia,China
+175,Timor-Leste,Bhutan,China
+176,Togo,"Bahamas, The",China
+177,Tonga,Sao Tome and Principe,China
+178,Trinidad and Tobago,Estonia,China
+179,Tunisia,Guatemala,China
+180,Turkey,Italy,China
+181,Turkmenistan,Panama,China
+182,Tuvalu,Nauru,China
+183,Uganda,Jordan,China
+184,Ukraine,Norway,China
+185,United Arab Emirates,Bangladesh,China
+186,United Kingdom,France,China
+187,United States,China,Tuvalu
+188,Uruguay,Nepal,China
+189,Uzbekistan,Finland,China
+190,Vanuatu,Dominica,China
+191,Venezuela,Norway,China
+192,Vietnam,Iraq,China
+193,Western Sahara,Dominica,China
+194,Yemen,Slovenia,China
+195,Zambia,Czech Republic,China
+196,Zimbabwe,Brunei,China

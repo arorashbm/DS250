@@ -1,0 +1,198 @@
+,Country Name,Most Similar Country,Most Different Country
+0,Eritrea,"Korea, North",Nauru
+1,"Korea, North",Central African Republic,Nauru
+2,Central African Republic,"Korea, North",Nauru
+3,Madagascar,South Sudan,Nauru
+4,South Sudan,Chad,Nauru
+5,Chad,South Sudan,Nauru
+6,"Congo, Democratic Republic of the",Chad,Nauru
+7,Malawi,Niger,Nauru
+8,Niger,Malawi,Nauru
+9,Angola,Marshall Islands,Nauru
+10,Marshall Islands,Burundi,Nauru
+11,Burundi,Marshall Islands,Nauru
+12,Kiribati,Burundi,Nauru
+13,Mozambique,Djibouti,Nauru
+14,Djibouti,Somalia,Nauru
+15,Somalia,Djibouti,Nauru
+16,Comoros,"Micronesia, Federated States of",Nauru
+17,"Micronesia, Federated States of",Comoros,Nauru
+18,Papua New Guinea,"Micronesia, Federated States of",Nauru
+19,Liberia,Haiti,Nauru
+20,Haiti,Liberia,Nauru
+21,Ethiopia,Haiti,Nauru
+22,Afghanistan,Ethiopia,Nauru
+23,Guinea-Bissau,Solomon Islands,Nauru
+24,Solomon Islands,Guinea-Bissau,Nauru
+25,Laos,Yemen,Nauru
+26,Yemen,Pakistan,Nauru
+27,Pakistan,Yemen,Nauru
+28,Togo,Tanzania,Nauru
+29,Tanzania,Togo,Nauru
+30,Benin,Sudan,Nauru
+31,Sudan,Benin,Nauru
+32,Cuba,Nigeria,Nauru
+33,Nigeria,Samoa,Nauru
+34,Samoa,Equatorial Guinea,Nauru
+35,Equatorial Guinea,Samoa,Nauru
+36,Guinea,Rwanda,Nauru
+37,Rwanda,Cameroon,Nauru
+38,Cameroon,Rwanda,Nauru
+39,Burkina Faso,Vanuatu,Nauru
+40,Vanuatu,Burkina Faso,Nauru
+41,Uganda,Zambia,Nauru
+42,Zambia,Uganda,Nauru
+43,Iraq,Belize,Nauru
+44,Belize,Iraq,Nauru
+45,Sao Tome and Principe,"Congo, Republic of the",Nauru
+46,"Congo, Republic of the",Sao Tome and Principe,Nauru
+47,Burma,Bangladesh,Nauru
+48,Bangladesh,Burma,Nauru
+49,Kenya,Bangladesh,Nauru
+50,Sierra Leone,Kenya,Nauru
+51,Mali,India,Nauru
+52,India,Mali,Nauru
+53,Mauritania,Honduras,Nauru
+54,Honduras,Zimbabwe,Nauru
+55,Zimbabwe,Tonga,Nauru
+56,Tonga,Syria,Nauru
+57,Syria,Tonga,Nauru
+58,Nepal,Senegal,Nauru
+59,Senegal,Nepal,Nauru
+60,Venezuela,Tajikistan,Nauru
+61,Tajikistan,Venezuela,Nauru
+62,Czech Republic,Swaziland,Nauru
+63,Swaziland,Czech Republic,Nauru
+64,Bolivia,Cambodia,Nauru
+65,Cambodia,Bolivia,Nauru
+66,Tuvalu,Bhutan,Nauru
+67,Bhutan,Timor-Leste,Nauru
+68,Timor-Leste,Bhutan,Nauru
+69,Namibia,Cote d'Ivoire,Nauru
+70,Cote d'Ivoire,Namibia,Nauru
+71,Lesotho,Guyana,Nauru
+72,Guyana,Lesotho,Nauru
+73,Jordan,Guyana,Nauru
+74,Uzbekistan,Egypt,Nauru
+75,Egypt,"Gambia, The",Nauru
+76,"Gambia, The",Libya,Nauru
+77,Libya,"Gambia, The",Nauru
+78,Ecuador,Dominican Republic,Nauru
+79,Dominican Republic,Paraguay,Nauru
+80,Paraguay,Dominican Republic,Nauru
+81,Ghana,Mongolia,Nauru
+82,Mongolia,Ghana,Nauru
+83,Gabon,Fiji,Nauru
+84,Fiji,Gabon,Nauru
+85,Nicaragua,Cabo Verde,Nauru
+86,Cabo Verde,Nicaragua,Nauru
+87,Guatemala,Philippines,Nauru
+88,Philippines,Kyrgyzstan,Nauru
+89,Kyrgyzstan,Philippines,Nauru
+90,Sri Lanka,Algeria,Nauru
+91,Algeria,Jamaica,Nauru
+92,Jamaica,Algeria,Nauru
+93,Mexico,Jamaica,Nauru
+94,Turkey,Mexico,Nauru
+95,Peru,Turkey,Nauru
+96,Tunisia,Botswana,Nauru
+97,Botswana,Vietnam,Nauru
+98,Vietnam,Botswana,Nauru
+99,Morocco,Bosnia and Herzegovina,Nauru
+100,Bosnia and Herzegovina,Morocco,Nauru
+101,Albania,Saint Lucia,Nauru
+102,Saint Lucia,Albania,Nauru
+103,China,Saint Lucia,Nauru
+104,Saudi Arabia,Armenia,Nauru
+105,Armenia,Suriname,Nauru
+106,Suriname,Armenia,Nauru
+107,Grenada,Macedonia,Nauru
+108,Macedonia,Grenada,Nauru
+109,Brazil,Romania,Nauru
+110,Romania,Brazil,Nauru
+111,Indonesia,Romania,Nauru
+112,Ukraine,El Salvador,Nauru
+113,El Salvador,Ukraine,Nauru
+114,Lebanon,El Salvador,Nauru
+115,Saint Vincent and the Grenadines,Lebanon,Nauru
+116,Dominica,Azerbaijan,Nauru
+117,Azerbaijan,Dominica,Nauru
+118,Colombia,Azerbaijan,Nauru
+119,Cyprus,Oman,Nauru
+120,Oman,Cyprus,Nauru
+121,Bulgaria,Chile,Nauru
+122,Chile,South Africa,Nauru
+123,South Africa,Chile,Nauru
+124,Moldova,Kosovo,Nauru
+125,Kosovo,Moldova,Nauru
+126,Croatia,Mauritius,Nauru
+127,Mauritius,Panama,Nauru
+128,Panama,Brunei,Nauru
+129,Brunei,Panama,Nauru
+130,Malaysia,Brunei,Nauru
+131,Thailand,Ireland,Nauru
+132,Ireland,Thailand,Nauru
+133,Georgia,Ireland,Nauru
+134,Poland,Georgia,Nauru
+135,"Bahamas, The",Argentina,Nauru
+136,Argentina,San Marino,Nauru
+137,San Marino,Serbia,Nauru
+138,Serbia,San Marino,Nauru
+139,Kazakhstan,Slovenia,Nauru
+140,Slovenia,Kazakhstan,Nauru
+141,Slovakia,Slovenia,Nauru
+142,Latvia,Spain,Nauru
+143,Spain,Latvia,Nauru
+144,Norway,Italy,Nauru
+145,Italy,Canada,Nauru
+146,Canada,Italy,Nauru
+147,Finland,Canada,Nauru
+148,Belgium,Hungary,Nauru
+149,Hungary,Belgium,Nauru
+150,United States,Hungary,Nauru
+151,Belarus,Portugal,Nauru
+152,Portugal,Israel,Nauru
+153,Israel,Portugal,Nauru
+154,Seychelles,Israel,Nauru
+155,Iran,Barbados,Nauru
+156,Barbados,Greece,Nauru
+157,Greece,Barbados,Nauru
+158,Costa Rica,Australia,Nauru
+159,Australia,Costa Rica,Nauru
+160,Turkmenistan,Kuwait,Nauru
+161,Kuwait,Turkmenistan,Nauru
+162,Andorra,Singapore,Nauru
+163,Singapore,Andorra,Nauru
+164,Lithuania,Sweden,Nauru
+165,Sweden,Uruguay,Nauru
+166,Uruguay,Sweden,Nauru
+167,Russia,Denmark,Nauru
+168,Denmark,Russia,Nauru
+169,Saint Kitts and Nevis,Denmark,Nauru
+170,Antigua and Barbuda,Trinidad and Tobago,Nauru
+171,Trinidad and Tobago,Qatar,Nauru
+172,Qatar,Trinidad and Tobago,Nauru
+173,France,Qatar,Nauru
+174,Netherlands,Malta,Nauru
+175,Malta,Netherlands,Nauru
+176,Montenegro,Malta,Nauru
+177,Taiwan,Bahrain,Nauru
+178,Bahrain,Taiwan,Nauru
+179,New Zealand,Bahrain,Nauru
+180,United Arab Emirates,Iceland,Nauru
+181,Iceland,United Arab Emirates,Nauru
+182,Liechtenstein,Iceland,Nauru
+183,Maldives,Estonia,Nauru
+184,Estonia,Maldives,Nauru
+185,"Korea, South",Estonia,Nauru
+186,Luxembourg,United Kingdom,Nauru
+187,United Kingdom,Luxembourg,Nauru
+188,Japan,United Kingdom,Nauru
+189,Switzerland,Germany,Nauru
+190,Germany,Switzerland,Nauru
+191,Austria,Germany,Nauru
+192,Monaco,Austria,Nauru
+193,Greenland,Monaco,Nauru
+194,Palau,Western Sahara,Nauru
+195,Western Sahara,Palau,Eritrea
+196,Nauru,Western Sahara,Eritrea
